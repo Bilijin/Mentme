@@ -1,0 +1,22 @@
+h1 {
+    color:rgb(170, 97, 170);
+    border-bottom: 1px solid rgb(238, 154, 179);
+}
+p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(61, 13, 61);
+    margin-left: 100px;
+    margin-right:50px;
+}
+body{
+    background-color:rgb(233, 185, 233);
+}
+h2{
+    color: rgb(170, 97, 120);
+}
+img{
+    float: right;
+    margin: 0px 12px;
+    border-radius: 50%;
+}
